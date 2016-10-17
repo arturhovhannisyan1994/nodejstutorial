@@ -1,0 +1,7 @@
+<ul>
+    <% for(var i=0; i<products.length; i++) {%>
+    <li><a href="/products/details/<%= products[i].Id %>" /><%= products[i].Name %></li>
+    <% } %>
+</ul>
+
+<a href="products/create">create </a>

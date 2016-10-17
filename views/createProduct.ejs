@@ -1,0 +1,25 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src ="/javascripts/createProduct.js"></script>.
+
+<form action="/products/create" method="post" >
+    <fieldset>
+        <label for="name">Name:</label>
+        <input type="text" id="Name" name="Name" placeholder="Enter your full name"/>
+        <br/>
+        <label for="category">Category:</label>
+        <select name="CategoryId" id="categoriesId">
+            <% for(var i = 0; i < categores.length; i++) { %>
+            <option value="<%= categores[i].CategoryId %>"><%= categores[i].Name %></option>
+            <% } %>
+        </select>
+        <select name="SubCategoryId" id="SubCategoryId">
+
+        </select>
+        <input type="file" id="image" name="image" value="upload image">
+        <br/>
+       <!-- <label for="description">Description:</label>
+        <textarea id="description" name="description" placeholder="Enter a short description about yourself"></textarea>
+        <br/>-->
+        <input type="submit" value="Create"/>
+    </fieldset>
+</form>

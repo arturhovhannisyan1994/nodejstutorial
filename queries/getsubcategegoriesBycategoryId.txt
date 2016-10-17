@@ -1,0 +1,1 @@
+SELECT * FROM SubCategory WHERE CategoryId = @CategoryId 

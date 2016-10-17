@@ -1,0 +1,34 @@
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:38.219Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:38.221Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:40.727Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:40.727Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:41.094Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:41.094Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:41.315Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:41.315Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:41.547Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:41.550Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:41.803Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:41.803Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:20:41.997Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:20:41.997Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:17.608Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:17.609Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:17.965Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:17.966Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:18.142Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:18.142Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:18.308Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:18.308Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:18.499Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:18.499Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:18.676Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:18.676Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-13T14:21:18.818Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-13T14:21:18.818Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-17T10:11:39.685Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-17T10:11:39.687Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-17T12:37:39.390Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-17T12:37:39.391Z"}
+{"level":"info","message":"info Hello distributed log files!","timestamp":"2016-10-17T14:28:19.459Z"}
+{"level":"error","message":"127.0.0.1 - there's no place like home","timestamp":"2016-10-17T14:28:19.460Z"}

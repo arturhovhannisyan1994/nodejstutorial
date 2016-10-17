@@ -1,0 +1,1 @@
+SELECT [CategoryId],[Name]  FROM [dbo].[Category]

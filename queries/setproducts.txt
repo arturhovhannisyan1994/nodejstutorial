@@ -1,0 +1,6 @@
+INSERT INTO dbo.Products
+        ( Name, SubCategoryId, DateCreated )
+VALUES  ( @Name, 
+          @SubCategoryId, 
+          GETDATE()
+          )

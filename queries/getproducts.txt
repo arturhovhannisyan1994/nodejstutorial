@@ -1,0 +1,2 @@
+select * from products P
+JOIN SubCategory SB ON SB.SubCategoryId  = p.SubCategoryId
